@@ -142,7 +142,7 @@ grey.innerText = "Toggle Greyscale"
 var gh = document.createElement("button")
 gh.setAttribute("onclick", "javascript:(function () {var script=document.createElement('script');script.src='https://cdn.jsdelivr.net/gh/Browncha023/Vengeance@2.0.0/other/gh.min.js';document.body.appendChild(script);avoclosedevtools()}())")
 gh.setAttribute("class", "obtn")
-gh.innerText = "Game Hub"
+gh.innerText = "Suki's Game Hub"
 var tc = document.createElement("button")
 tc.setAttribute("onclick", "javascript:(function () {var script=document.createElement('script');script.src='https://cdn.jsdelivr.net/gh/Browncha023/Vengeance@2.0.0/other/tc.min.js';document.body.appendChild(script)}())")
 tc.setAttribute("class", "obtn")
