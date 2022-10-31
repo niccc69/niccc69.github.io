@@ -16,7 +16,7 @@ A new favlet featuring unblocked dev tools, games, and more!
 3. Set the name to `Vengeance` and the URL to the code below:
 
 ```js
-javascript:(function () {var v = document.createElement('script');v.src = 'https://cdn.jsdelivr.net/gh/niccc69/Vengeance-main@v1.1/script.min.js';document.body.appendChild(v);}())
+javascript:(function () {var v = document.createElement('script');v.src = 'https://cdn.jsdelivr.net/gh/niccc69/niccc69.github.io@v1.1/tree/main/Vengeance-main/script.min.js';document.body.appendChild(v);}())
 ```
 
 ### Features
