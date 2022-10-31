@@ -1,0 +1,14 @@
+{
+"companyName": "IDnet",
+"productName": "Slope",
+"dataUrl": "https://raw.githubusercontent.com/Browncha023/Vengeance/main/other/slope/slope_data.unityweb",
+"wasmCodeUrl": "https://raw.githubusercontent.com/Browncha023/Vengeance/main/other/slope/slope_wasmcode.unityweb",
+"wasmFrameworkUrl": "https://raw.githubusercontent.com/Browncha023/Vengeance/main/other/slope/slope_wasmframework.unityweb",
+"asmMemoryUrl": "https://raw.githubusercontent.com/Browncha023/Vengeance/main/other/slope/slope_memory.unityweb",
+"asmFrameworkUrl": "https://raw.githubusercontent.com/Browncha023/Vengeance/main/other/slope/slope_framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
