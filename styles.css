@@ -1,12 +1,13 @@
-body {background-color:#ADD8E6;}
+body {background-color:#d3d3d3;}
 h1 {text-align:center;}
 h2 {text-align:center;}
 h3 {text-align:center;}
 p {text-align:center;}
-.link1 {text-align:center;}
+.link1 {text-align:center;
+  margin-top:10px;}
 a {text-align:center;}
-a {color:#000000;}
-a:hover {color:#00008B}
+a {color:#5a5a5a;}
+a:hover {color:#FFFFFF}
 a {padding-left:10px;
   padding-right:10px;}
 .link2 {text-align:center;}
