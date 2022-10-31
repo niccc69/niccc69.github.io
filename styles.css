@@ -1,5 +1,6 @@
 body {background-color:#d3d3d3;}
-h1 {text-align:center;}
+h1 {text-align:center;
+  margin-top:-35px;}
 h2 {text-align:center;}
 h3 {text-align:center;}
 p {text-align:center;}
@@ -13,6 +14,5 @@ a {padding-left:10px;
 .link2 {text-align:center;}
 .title {background-color:#5A5A5A;
   text-align:center;
-  font-size:35px;
-  margin-top:-30px;}
+  font-size:35px;}
 .title {color:#000000}
