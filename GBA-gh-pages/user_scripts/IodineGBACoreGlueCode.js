@@ -167,6 +167,7 @@ var games = {
     "thps2":"Tony Hawk's Pro Skater 2",
     "thps3":"Tony Hawk's Pro Skater 3",
     "thps4":"Tony Hawk's Pro Skater 4",
+    "thu1":"Tony Hawk's Underground",
     "tggtc":"Top Gear GT Championship",
     "tgr":"Top Gear Rally",
     "spyro_adventure":"Spyro Adventure",
