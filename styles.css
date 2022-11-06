@@ -7,7 +7,7 @@ p {text-align:center;}
   margin-top:10px;}
 a {text-align:center;}
 a {color:#5a5a5a;}
-a:hover {color:#FFFFFF}
+a:hover {color:#5a5a5a}
 a {padding-left:10px;
   padding-right:10px;}
 .link2 {text-align:center;}
@@ -20,5 +20,5 @@ font-size:25px;
 }
 webrcade {text-align:center;
   font-size:25px;
-  hover:#FFFFFF
+  hover:#5a5a5a
 }
