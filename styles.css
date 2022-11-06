@@ -12,13 +12,11 @@ a {padding-left:10px;
   padding-right:10px;}
 .link2 {text-align:center;}
 .title {text-align:center;
-  color: #FFFFFF;
 font-family: cursive
 font-style:cursive;
 font-size:25px;
   background-color:#5a5a5a;
 }
-webrcade {text-align:center;
+.webrcade {text-align:center;
   font-size:25px;
-  hover:#5a5a5a
 }
