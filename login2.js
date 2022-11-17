@@ -5,7 +5,7 @@ var password=document.getElementById("password").value;
 if(username=="modz"&& password=="cheeks")
   
 {
-    alert("login succesfully");
+    alert("login succesfull");
     return false;
 
 }
